@@ -8,3 +8,7 @@
 
 >>>>>>> signin
 >>>>>>> 5544da8 (Revert "Revert test")
+
+Git Stash Test
+
+문서를 수정합니다.
